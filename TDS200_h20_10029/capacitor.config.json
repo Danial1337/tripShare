@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "TDSGram_2020",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "TDSGram_2020",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
